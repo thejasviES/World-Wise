@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "pt",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "bdf5",
+      "cityName": "Lidon",
+      "country": "Spain",
+      "emoji": "es",
+      "date": "2024-01-23T16:18:45.711Z",
+      "notes": "nhbgvjh",
+      "position": {
+        "lat": "40.71831710972041",
+        "lng": "-1.0760823912507769"
+      }
+    }
+  ]
+}
